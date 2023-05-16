@@ -62,7 +62,7 @@ All great projects start with collaboration. Pull requests are the foundation of
 -->
 
 <details id=1 open>
-<h2 hidden> Thank you </h2>
+
 <summary><h2>Step 1: Open a pull request</h2></summary>
 
 _Welcome to "Review pull requests"! :wave:_
